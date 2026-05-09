@@ -42,7 +42,7 @@ O BCrypt é um algoritmo de hash extremamente utilizado para proteção de senha
 ```bash
 GeneretorBCRYPT/
 │
-├── GeneretorBCRYPT/
+├── GeneretorConsole/
 ├── webgeneretor/
 └── README.md
 ```
